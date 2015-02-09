@@ -1,5 +1,4 @@
-*.jpg
 *.pdf
-*.psd
 *.stl
 *.png
+Adafruit_*.py
